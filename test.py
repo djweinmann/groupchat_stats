@@ -1,0 +1,1 @@
+print(len("I'm gone the weekend of the 26th but if that's the most convenient for the majority of people we should do that"))
